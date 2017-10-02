@@ -1,0 +1,25 @@
+html, body{
+
+	margin: 0;
+
+}
+
+header{
+
+	background-color: black;
+	margin: 0 ;
+	text-align: center;
+	padding: 20px;
+	 
+}
+
+header img{
+
+	width: 120px;
+}
+
+.content{
+
+	text-align: center;
+}
+
